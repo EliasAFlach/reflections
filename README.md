@@ -2,5 +2,5 @@
 Project developed exclusively to enhance understanding of Java Reflection.
 
 # Set-up
-To run this project, run the following command: 
+To run this project, you must have docker on your machine and run the following command: 
 #### docker compose -f docker/mysql.yml up -d
